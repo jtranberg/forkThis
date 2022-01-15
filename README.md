@@ -1,10 +1,10 @@
-# Project Title
+# git learning
 
-## Forkthis Repo for Practice
+## Forkthis Repo for Practice to get the best results
 
-### Write your author name here. eg. By Nicole
+### Jay Tranberg
 
-### Description
+### Description practice
 
 Create a description and fill it in here.
 
